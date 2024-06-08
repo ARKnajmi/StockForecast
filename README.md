@@ -56,6 +56,8 @@ Prophet is a forecasting model developed by Facebook's Core Data Science team, s
 Model evaluation involves assessing the accuracy of the forecasted values using Mean Absolute Percentage Error (MAPE) to determine the model's performance.
 
 ## 🏁 Conclusion
+![image](https://github.com/ARKnajmi/StockForecast/assets/149140186/a69c5e07-b81f-41bb-8e33-e35287f71dc4)
+
 The project concludes with a highly accurate forecasting model for BBCA stock prices, achieving a MAPE value of 8.3%. This demonstrates the effectiveness of using Prophet for stock market forecasting.
 
 ## 🗝️ Usage
@@ -63,9 +65,3 @@ To use this project:
 1. Clone the repository to your local machine.
 2. Install the required libnrary/dependencies.
 3. Run the Jupyter Notebook or Python script to analyze and forecast BBCA stock prices.
-
-## Contributing
-Contributions to this project are welcome. Feel free to submit issues, suggestions, or pull requests.
-
-## License
-This project is licensed under the [MIT License](link-to-license).
