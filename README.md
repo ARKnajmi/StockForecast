@@ -63,5 +63,5 @@ The project concludes with a highly accurate forecasting model for BBCA stock pr
 ## 🗝️ Usage
 To use this project:
 1. Clone the repository to your local machine.
-2. Install the required libnrary/dependencies.
+2. Install the required library/dependencies.
 3. Run the Jupyter Notebook or Python script to analyze and forecast BBCA stock prices.
